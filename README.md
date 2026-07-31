@@ -1,2 +1,67 @@
-# Analisis_Comparativo_Cancer
-Proyecto de bioinformática para comparar genes asociados con el cáncer entre humanos y diferentes especies de primates.
+# Análisis Comparativo de Genes Asociados al Cáncer entre Humanos y Primates
+
+## Descripción
+
+Este proyecto tiene como finalidad comparar genes asociados con el cáncer entre humanos y diferentes especies de primates para identificar similitudes, diferencias y regiones conservadas desde una perspectiva de la bioinformática.
+
+## Propósito
+
+Analizar secuencias genéticas de genes relacionados con el desarrollo del cáncer en distintas especies de primates para estudiar su conservación evolutiva y las posibles diferencias genéticas existentes.
+
+## Objetivos
+
+- Comparar genes asociados con el cáncer entre diferentes especies.
+- Identificar regiones conservadas en las secuencias.
+- Analizar el porcentaje de similitud genética.
+- Explorar las relaciones evolutivas entre las especies.
+- Generar resultados que puedan visualizarse mediante gráficos o árboles filogenéticos.
+
+## Genes de interés
+
+- TP53
+- BRCA1
+- BRCA2
+- EGFR
+- KRAS
+- PTEN
+- APC
+
+## Especies analizadas
+
+- Humano (*Homo sapiens*)
+- Chimpancé (*Pan troglodytes*)
+- Gorila (*Gorilla gorilla*)
+- Orangután (*Pongo abelii*)
+- Macaco rhesus (*Macaca mulatta*)
+
+## Estructura del proyecto
+
+```text
+datos/
+scripts/
+resultados/
+imagenes/
+documentacion/
+```
+
+## Herramientas
+
+- Python
+- Biopython
+- BLAST
+- Git
+- GitHub
+
+## Instrucciones de uso
+
+1. Clonar el repositorio.
+2. Colocar las secuencias en la carpeta `datos`.
+3. Ejecutar los scripts de análisis.
+4. Revisar los resultados generados en la carpeta `resultados`.
+
+## Licencia
+
+MIT License
+
+## Autor
+Jorge Carlos Guzmán Silva
