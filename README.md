@@ -30,9 +30,6 @@ Analizar secuencias genéticas de genes relacionados con el desarrollo del cánc
 
 - Humano (*Homo sapiens*)
 - Chimpancé (*Pan troglodytes*)
-- Gorila (*Gorilla gorilla*)
-- Orangután (*Pongo abelii*)
-- Macaco rhesus (*Macaca mulatta*)
 
 ## Estructura del proyecto
 
